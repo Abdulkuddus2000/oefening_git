@@ -1,1 +1,2 @@
-mijn eerste bestand in git
+eerste wijziging aan bestand1.txt
+2e wijziging aan bestand1.txt
